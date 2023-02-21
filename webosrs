@@ -6,7 +6,7 @@ function start() {
 
   var link = "web.osrs.com"; // link to app webpage
   var title = "webOSRS"; // title shown in navbar
-  var id = "https://l413.github.io/Clockworks-OS-Custom-Apps/eaglercraftapp.js"; // set this to the url location of your script
+  var id = "https://sak2050.github.io/webosrs"; // set this to the url location of your script
   
   ////SCRIPT////
   
