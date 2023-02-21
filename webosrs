@@ -5,7 +5,7 @@ function start() {
   ////CONFIG////
 
   var link = "web.osrs.com"; // link to app webpage
-  var title = "Eaglercraft"; // title shown in navbar
+  var title = "webOSRS"; // title shown in navbar
   var id = "https://l413.github.io/Clockworks-OS-Custom-Apps/eaglercraftapp.js"; // set this to the url location of your script
   
   ////SCRIPT////
